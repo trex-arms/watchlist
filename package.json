@@ -1,7 +1,7 @@
 {
   "name": "@trex-arms/watchlist",
   "version": "0.3.2",
-  "repository": "lukeed/watchlist",
+  "repository": "trex-arms/watchlist",
   "description": "Recursively watch a list of directories & run a command on any file system changes",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
